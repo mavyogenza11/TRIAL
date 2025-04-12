@@ -1,4 +1,14 @@
 #EXTM3U
+==================================================LIVE MDM==================================================
+
+
+#EXTINF:-1 group-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="LIVE MDM",TERSEDIA SAAT LIVE.
+https://www.youtube.com/watch?v=zpcTRG5ktBg
+
+_______________
+
+#EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
