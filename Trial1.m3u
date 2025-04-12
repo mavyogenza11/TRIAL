@@ -1,17 +1,15 @@
 #EXTM3U
+
 ==================================================LIVE MDM==================================================
 
 
 #EXTINF:-1 group-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="LIVE MDM",TERSEDIA SAAT LIVE.
-https://manifest.googlevideo.com/api/manifest/dash/expire/1744463635/ei/sxL6Z6rODoLI4t4P3q3rgQ0/ip/160.22.128.18/id/zpcTRG5ktBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/_S3wKnNUi8MwngRmZdmPMjJX71wqZlqozvcwzkuhC1GxK47GJMu1Y7ROnjbKyNkzZz92XOwVgHHsPg/vprv/1/rqh/2/pacing/0/keepalive/yes/fexp/51355912%2C51435733/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cas%2Csiu%2Cspc%2Cvprv%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKJzl25gKchgGxvWbclOiwYLHQyWFOFyQwSkeKgRs4jyAiEAuiqnfwpN2NAhKmud0Hs9Yhze15bHeuuIEuaFxZw_AG8%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744463635/ei/sxL6Z6rODoLI4t4P3q3rgQ0/ip/160.22.128.18/id/zpcTRG5ktBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcONOscotgAlyo5J0NQ5f6w3V-RIPkUfIXmtnbj-xS1BN2qeS-CNWFgunhzMbdc5hT6UiA/spc/_S3wKnNXi8MwngRmZdmPMjJX71wqZlqozvcwzkuhClGxK47GJMu1Y7ROnjbKyNkzZz92XOwlg5nspqDL/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYARGC91nzvl1dSVsIwficGJ9iz2MTccLkmoydeouBYkCIF6hgRx3l64BeRHDAQ6lLKw6LYWIhg9-vzsij6RYkciY/file/index.m3u8
-
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744465763/ei/Axv6Z6yYNYWV1d8Pp_uuqQs/ip/160.22.128.114/id/zpcTRG5ktBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcPB-19lqW3ojwcFv1r0wcSeLvG40ZyePzHs2uLjvxHm3dEOdBDSAz0eUwi_nRjE8bvobg/spc/_S3wKrqoKvqD202eH4wByBCxxs5j1oSk2vnaTuqvn2XhmyCp_2boLMDtlxFBubNBeQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO-sTZWtEiIT_s2Uvuv_V3bU-1ETyrjtutsu-PM4EMYTAiApjFkKBA6JnU8eKYfDdPRlqmNEGbmqiW2MZwBne_oJjQ%3D%3D/file/index.m3u8
 
 
 _______________
 
-#EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
