@@ -652,12 +652,11 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 ================ DAERAH ==================
 
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="DAERAH" ,HANACARAKA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="DAERAH",JOWO CHANNEL
